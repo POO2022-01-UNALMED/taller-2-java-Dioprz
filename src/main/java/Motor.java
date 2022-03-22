@@ -16,8 +16,6 @@ public class Motor {
             case "gasolina":
                 this.tipo = tipo;
                 break;
-            default:
-                break;
         }
     }
 }
